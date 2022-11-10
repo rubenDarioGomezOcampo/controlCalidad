@@ -1,0 +1,28 @@
+.mainContainer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.mainContainer h1 {
+    margin: 0 0 2em 15em;
+    width: 100%;
+}
+
+.formulario {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+.formulario label {
+    width: 100%;
+}
+
+.formulario input {
+    width: 100%;
+}
